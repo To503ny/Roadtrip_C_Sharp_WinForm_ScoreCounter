@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScoreCounter", "ScoreCounter\ScoreCounter.csproj", "{B322F953-3D9E-47D6-96F9-8974C1BC2AFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B322F953-3D9E-47D6-96F9-8974C1BC2AFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B322F953-3D9E-47D6-96F9-8974C1BC2AFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B322F953-3D9E-47D6-96F9-8974C1BC2AFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B322F953-3D9E-47D6-96F9-8974C1BC2AFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59BF2D33-EBCA-4082-8B03-E21867C393E3}
+	EndGlobalSection
+EndGlobal

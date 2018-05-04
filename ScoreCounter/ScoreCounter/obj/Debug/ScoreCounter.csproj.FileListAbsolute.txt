@@ -1,0 +1,10 @@
+C:\Users\typer\source\repos\ScoreCounter\ScoreCounter\bin\Debug\ScoreCounter.exe.config
+C:\Users\typer\source\repos\ScoreCounter\ScoreCounter\bin\Debug\ScoreCounter.exe
+C:\Users\typer\source\repos\ScoreCounter\ScoreCounter\bin\Debug\ScoreCounter.pdb
+C:\Users\typer\source\repos\ScoreCounter\ScoreCounter\obj\Debug\ScoreCounter.Form1.resources
+C:\Users\typer\source\repos\ScoreCounter\ScoreCounter\obj\Debug\ScoreCounter.Properties.Resources.resources
+C:\Users\typer\source\repos\ScoreCounter\ScoreCounter\obj\Debug\ScoreCounter.csproj.GenerateResource.Cache
+C:\Users\typer\source\repos\ScoreCounter\ScoreCounter\obj\Debug\ScoreCounter.csproj.CoreCompileInputs.cache
+C:\Users\typer\source\repos\ScoreCounter\ScoreCounter\obj\Debug\ScoreCounter.exe
+C:\Users\typer\source\repos\ScoreCounter\ScoreCounter\obj\Debug\ScoreCounter.pdb
+C:\Users\typer\source\repos\ScoreCounter\ScoreCounter\obj\Debug\ScoreCounter.csprojResolveAssemblyReference.cache
